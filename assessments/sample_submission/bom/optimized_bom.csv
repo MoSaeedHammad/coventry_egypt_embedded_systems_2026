@@ -1,0 +1,9 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+AVR Controller,"ATmega328P",1,Atmel,"ATmega328P",https://www.atmel.com/images/doc8161.pdf,5.00,5.00
+RS232 Circuit,"MAX232",1,Maxim,"MAX232",https://datasheets.maximintegrated.com/en/ds/MAX232.pdf,2.00,2.00
+LED,"Red LED, 5mm",1,,,,,0.10
+Resistor,"220 Ohm, 0.25W",1,,,,,0.05
+Switch,"Tactile Push Button Switch",1,,,,,0.10
+Jumper Wires,"Male-to-Female",Several,,,,,5.00
+Crystal Oscillator,"16MHz",1,,,,,0.50
+Capacitors,"10uF, 16V",2,,,,,0.10

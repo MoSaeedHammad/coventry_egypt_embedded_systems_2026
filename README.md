@@ -1,6 +1,6 @@
-# tkh_embedded_systems_2023
+# tkh_embedded_systems_2024
 
-Embedded Systems Courses Fall 2023 Repo
+Embedded Systems Courses Fall 2024 Repo
 
 ## Needed Tools
 
